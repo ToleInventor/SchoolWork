@@ -17,7 +17,7 @@ _Assignments submitted for assessment by my lecturer._
 ---
 
 ## Contact Me
-
+<center>
 <table>
   <thead>
     <tr>
@@ -52,7 +52,7 @@ _Assignments submitted for assessment by my lecturer._
     </tr>
   </tbody>
 </table>
-
+</center>
 ---
 
 <p align="center" style="font-size: 0.9em; color:#888;">
