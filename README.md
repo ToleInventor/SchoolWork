@@ -13,6 +13,9 @@ _Assignments submitted for assessment by my lecturer._
 <p style="font-style: italic; color: #666;">
   Here you will find all my completed assignments, with relevant code, reports, and documentation. Feel free to explore the folders to view individual assignments.
 </p>
+<p style="font-style: italic; color: #666;">
+  Remember that these are for refference only,, and copying may lead to action by the related authorities, So work with Caution!
+</p>
 
 ---
 
