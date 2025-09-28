@@ -1,14 +1,14 @@
 # School Assignments Repository
 
 <p align="center">
-  <img src="https://github.com/ToleInventor/SchoolWork/blob/main/assets/school-icon.png" alt="School Icon" width="80" />
-</p>
+<img width="213" height="236" alt="download" src="https://github.com/user-attachments/assets/c9f871fd-bc64-4a93-bae0-7b0a722f94c7" /></p>
 
 _Assignments submitted for assessment by my lecturer._
 
 ---
 
 ## Assignments Overview
+
 
 <p style="font-style: italic; color: #666;">
   Here you will find all my completed assignments, with relevant code, reports, and documentation. Feel free to explore the folders to view individual assignments.
