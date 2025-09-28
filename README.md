@@ -52,8 +52,8 @@ _Assignments submitted for assessment by my lecturer._
     </tr>
   </tbody>
 </table>
+  ----
 </center>
----
 
 <p align="center" style="font-size: 0.9em; color:#888;">
   Thank you for visiting my assignments repository! Feel free to reach out anytime.
