@@ -17,19 +17,24 @@ int main(){
 	scanf("%f", &Units);
 	if(Units >= 0 && Units <= 30){
 		bill = Units * 20;
+		printf("Your Total water bill is: ");
+	   	printf("%.2f", bill);
 	}
 	else if(Units >= 31 && Units <= 60)
 	{
 		bill = Units * 25;
+		printf("Your Total water bill is: ");
+	   	printf("%.2f", bill);
 	}
 	else if(Units > 60){
 		bill = Units * 30;
+		printf("Your Total water bill is: ");
+		printf("%.2f", bill);
 	}
 	else{
 		printf("Kindly enter valid values here");
 	}
-	printf("Your Total water bill is: ");
-	printf("%.2f", bill);
+	
 	return 0;	
 
 }
