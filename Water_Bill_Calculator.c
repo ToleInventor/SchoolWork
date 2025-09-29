@@ -16,16 +16,20 @@ int main(){
 	printf("Enter number of water units consumed bellow: \n");
 	scanf("%f", &Units);
 	if(Units >= 0 && Units <= 30){
-		bill = 20;
+		bill = Units * 20;
 	}
 	else if(Units >= 31 && Units <= 60)
 	{
-		bill = 25;
+		bill = Units * 25;
 	}
 	else if(Units > 60){
-		bill = 30;
+		bill = Units * 30;
+	}
+	else{
+		printf("Kindly enter valid values here");
 	}
 	printf("Your Total water bill is: ");
 	printf("%.2f", bill);
 	return 0;	
+
 }
